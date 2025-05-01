@@ -1,6 +1,6 @@
 package com.tns.day1;
 
-public class Hello {
+public class TypesOfVariables {
 int a=10;
 static int b=10;
 void print() {
