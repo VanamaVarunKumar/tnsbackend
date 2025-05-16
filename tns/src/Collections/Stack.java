@@ -1,6 +1,6 @@
 package Collections;
 import java.util.*;
-public class Stack {
+public class StackEx {
 public static void main(String[] args) {
 	Stack<Object> s=new Stack<>();
 	s.push(1);
